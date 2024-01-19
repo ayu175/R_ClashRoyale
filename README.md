@@ -19,3 +19,9 @@ Thorough cleaning of the dataset to handle missing values, outliers, and ensure 
 
 #### **3. Multiple Linear Regression**
 Implementation of a multiple linear regression model to predict health and damage, based on various independent variables.
+
+#### 4.Visualization (Tableau)
+Effective use of data visualization techniques to present actual values and predicted values.
+
+![image](https://github.com/ayu-shiba/R_ClashRoyale/assets/157092177/4593d331-f92c-44ca-a991-30bd153c6af5)
+
