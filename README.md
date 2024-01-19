@@ -1,7 +1,7 @@
 # **Clash Royale**
 
 ## **Overview**
-This project focuses on analyzing the mobile game, Clash Royale in R to understand the health efficiency and elixir worth of each card. 
+This project focuses on analyzing the mobile game, Clash Royale, to understand the health efficiency and elixir worth of each card. 
 
 Clash Royale is a real-time strategic multi-player game that allows you to collect cards and build battle decks to destroy your opponent’s towers. Each card costs a certain elixir amount and during each battle you gain elixir at a consistent pace which ensures you play each card strategically.
 
